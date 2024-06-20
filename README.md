@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced cloud architect a
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
   </a>
 </p>
 
