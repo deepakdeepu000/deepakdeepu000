@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced cloud architect a
 </div>
 
 
-- 🌱 I’m currently learning **React, Nodejs, PowerBI**
+- 🌱 I’m currently learning **React, Nodejs**
 
 - 📫 How to reach me **deepakpampana2003@gmail.com**
 
