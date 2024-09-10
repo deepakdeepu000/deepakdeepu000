@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I'm a passionate and experienced cloud architect and DevOps engineer with a strong background in designing and implementing robust, scalable, and secure cloud solutions. I specialize in a wide range of technologies, including AWS, Jenkins, Git, Docker, Ansible, and programming languages like C++, Java, and Python.
+Hey there! 👋 I'm a cloud architect and DevOps engineer with a knack for designing scalable, secure, and efficient cloud solutions. I love working with AWS and have spent quite some time optimizing cloud infrastructures to develop and sharpen my skills, making deployments rock solid.
 
-- 🌟 **Cloud Architect & AWS Practitioner:** I have extensive experience in architecting and managing cloud infrastructures on AWS, ensuring high availability, scalability, and cost-efficiency.
-- 🔧 **DevOps Enthusiast:** Skilled in automating and optimizing development pipelines using Jenkins, Git, Docker, and Ansible to streamline the software delivery process.
-- 💻 **Programming Languages:** Proficient in C++, Java, and Python, with a keen interest in developing efficient and maintainable code.
+I've also delved into DevOps, learning to automate pipelines and optimize workflows using tools like Jenkins, Git, Docker, and Ansible. Currently, I'm expanding my horizons by studying React aiming to deepen my full-stack development skills and build interactive web applications.
+
+Always eager to learn and tackle new challenges, I’m excited about exploring how cloud technologies and modern web development can create impactful solutions. Let’s connect and build something innovative together!
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
