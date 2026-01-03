@@ -58,38 +58,45 @@ Always eager to learn and tackle new challenges, I’m excited about exploring h
 
 ## 🛠️ My Skills
 
-- Coding Languages
+- **Coding Languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp" />
   </a>
 </p>
 
-- Frontend
+- **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
   </a>
 </p>
 
-- Databases
+- **AI/ML Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,scikit-learn,langchain" />
+  </a>
+</p>
+
+- **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-- Cloud Servers
+- **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes" />
   </a>
 </p>
 
-- Tools
+- **Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jenkins,ansible" />
   </a>
 </p>
 
@@ -97,19 +104,21 @@ Always eager to learn and tackle new challenges, I’m excited about exploring h
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📈 GitHub Stats
+
+<!-- ## 📈 GitHub Stats
 
 <  p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakdeepu000&show_icons=true&locale=en&layout=compact" alt="deepakdeepu000" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdeepu000&show_icons=true&locale=en" alt="deepakdeepu000" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdeepu000&" alt="deepakdeepu000" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdeepu000&" alt="deepakdeepu000" /></p> -->
 
 ## Coding Profiles
 
 <div style="display: flex; justify-content: space-between;">
-  
+
+  <!--[![Deepak's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pampana__deepak)](https://github.com/napiyo/geeksForGeeksStatsAPI) -->
   <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=pampana__deepak" alt="Deepak's GeeksForGeeks stats" />
-  
+
   <img src="https://leetcode.card.workers.dev/deepakdeepu000?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
 </div>
