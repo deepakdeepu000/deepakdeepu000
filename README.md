@@ -118,7 +118,7 @@ Always eager to learn and tackle new challenges, I’m excited about exploring h
 <div style="display: flex; justify-content: space-between;">
 
   <!--[![Deepak's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pampana__deepak)](https://github.com/napiyo/geeksForGeeksStatsAPI) -->
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=pampana__deepak" alt="Deepak's GeeksForGeeks stats" />
+  <img src="https://geeks-for-geeks-stats-api-kappa.vercel.app/?userName=pampana__deepak" alt="Deepak's GeeksForGeeks stats" />
 
   <img src="https://leetcode.card.workers.dev/deepakdeepu000?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
 </div>
