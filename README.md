@@ -6,33 +6,30 @@
 </p>
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/deepak-babu-pampana/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:deepakpampana2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Machine Learning Engineer** with a strong background in **Cloud Architecture (AWS/OCI)**. Unlike traditional data scientists, I don't just build models in notebooks—I deploy them to production.
 
 I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal is to bridge the gap between complex model development and reliable cloud infrastructure.
 
-*   🔭 **Currently working on:** Building RAG pipelines with LangChain & Vector DBs.
-*   🌱 **Learning:** Advanced Deep Learning architectures & PyTorch.
-*   ☁️ **Cloud Skills:** AWS (SageMaker, Lambda, EC2), Docker, Jenkins.
-*   🧠 **AI Interests:** Large Language Models, Computer Vision, Voice AI.
+*   **Currently working on:** Building RAG pipelines with LangChain & Vector DBs.
+*   **Learning:** Advanced Deep Learning architectures & PyTorch.
+*   **Cloud Skills:** AWS (SageMaker, Lambda, EC2), Docker, Jenkins.
+*   **AI Interests:** Large Language Models, Computer Vision, Voice AI.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -41,31 +38,6 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
 
----
-
-## 🏆 Featured Projects
-
-### 🧠 **[Project Name: e.g., University RAG Chatbot]**
-*An AI-powered assistant for university students using Retrieval-Augmented Generation.*
-*   **Tech:** Python, LangChain, FAISS, OpenAI API, AWS Lambda.
-*   **Impact:** Reduced student support ticket resolution time by **40%**.
-*   **Key Feature:** Implemented hybrid search (keyword + semantic) to improve retrieval accuracy.
-
-### ☁️ **[Project Name: e.g., Automated MLOps Pipeline]**
-*A complete CI/CD pipeline for training and deploying ML models.*
-*   **Tech:** Docker, Jenkins, AWS SageMaker, GitHub Actions.
-*   **Impact:** Automated the retraining process, reducing deployment time from **2 days to 30 minutes**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
