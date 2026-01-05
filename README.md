@@ -86,7 +86,8 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 - **AI/ML Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,scikit-learn,langchain" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   </a>
 </p>
 
