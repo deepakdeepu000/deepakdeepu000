@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Pampana Deepak Babu</h1>
-<h3 align="center">Passionate AWS Practitioner: Pioneering Cloud Solutions</h3>
+<h3 align="center">Machine Learning Engineer | MLOps & Cloud Practitioner</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
@@ -11,11 +9,17 @@
 
 ## 🚀 About Me
 
-Hey there! 👋 I'm a cloud architect and DevOps engineer with a knack for designing scalable, secure, and efficient cloud solutions. I love working with AWS and have spent quite some time optimizing cloud infrastructures to develop and sharpen my skills, making deployments rock solid.
+Hey there! 👋 I'm an **ML Engineer** with a strong foundation in **Cloud Architecture** and **DevOps**. I specialize in bridging the gap between model development and production deployment, ensuring that AI solutions are not just accurate but also scalable, secure, and cost-efficient.
 
-I've also delved into DevOps, learning to automate pipelines and optimize workflows using tools like Jenkins, Git, Docker, and Ansible. Currently, I'm expanding my horizons by studying React aiming to deepen my full-stack development skills and build interactive web applications.
+My expertise lies in building **Generative AI** applications (RAG pipelines, LLMs) and deploying them on cloud platforms like **AWS** and **OCI**. I leverage my DevOps background—using tools like **Docker, Jenkins, and Kubernetes**—to automate training pipelines and optimize inference infrastructure.
 
-Always eager to learn and tackle new challenges, I’m excited about exploring how cloud technologies and modern web development can create impactful solutions. Let’s connect and build something innovative together!
+Currently, I am focused on:
+*   **Machine Learning:** Developing NLP models, RAG systems with LangChain/Vector DBs, and fine-tuning LLMs.
+*   **MLOps:** Automating model deployment and monitoring using AWS SageMaker and CI/CD pipelines.
+*   **Full Stack AI:** Integrating models into React/Node.js applications for real-world impact.
+
+Always eager to learn, I’m excited about exploring the intersection of **Deep Learning** and **Cloud Infrastructure** to build the next generation of intelligent applications. Let’s connect!
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
