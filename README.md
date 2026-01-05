@@ -87,8 +87,8 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-   <img width="64" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/64px-Scikit_learn_logo_small.svg.png?20180808062052"/>
   </a>
+  <a title="The scikit-learn developers, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"><img width="64" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/64px-Scikit_learn_logo_small.svg.png?20180808062052"></a>
 </p>
 
 - **Databases**
