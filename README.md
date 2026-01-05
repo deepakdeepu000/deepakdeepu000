@@ -65,11 +65,6 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 </div>
 
 
-- 🌱 I’m currently learning **React, Nodejs**
-
-- 📫 How to reach me **deepakpampana2003@gmail.com**
-
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
