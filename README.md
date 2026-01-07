@@ -132,7 +132,7 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 <div style="display: flex; justify-content: space-between;">
 
   <!--[![Deepak's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pampana__deepak)](https://github.com/napiyo/geeksForGeeksStatsAPI) -->
-  <img src="https://gfg-stats-scraper.onrender.com/pampana__deepak" alt="Deepak's GeeksForGeeks stats" />
+  <img src="https://geeksforgeeks-stats-api.onrender.com/pampana__deepak" alt="Deepak's GeeksForGeeks stats" />
 
   <img src="https://leetcode.card.workers.dev/deepakdeepu000?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
 </div>
