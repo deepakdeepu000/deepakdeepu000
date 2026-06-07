@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pampana Deepak Babu</h1>
-<h3 align="center">Machine Learning Engineer | MLOps & Cloud Practitioner</h3>
+<div align="center">
 
-<p align="center">
-  <em>Designing scalable, secure, and production-ready AI solutions.</em>
-</p>
+<h1>Hey, I'm Deepak 👋</h1>
+<h3>AI/ML Engineer · LangGraph · Agentic RAG · LLMs in Production</h3>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/deepak-babu-pampana/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p><em>Designing scalable, secure, and production-ready AI solutions.</em></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/deepak-babu-pampana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:deepakpampana2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/deepakdeepu000">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+</div>
 ---
 
 ## About Me
@@ -85,32 +89,32 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
   </a>
 </p>
 
-- **AI/ML Frameworks**
+- **GenAI & LLMs**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,ollama" />
   </a>
-  <a style="border-left:5px" title="The scikit-learn developers, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"><img width="64" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/64px-Scikit_learn_logo_small.svg.png?20180808062052"></a>
 </p>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 - **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,qdrant" />
   </a>
 </p>
 
 - **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,firebase,git,github,jenkins" />
   </a>
-</p>
 
-- **Tools**
+- **Backend & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jenkins,ansible" />
+    <img src="https://skillicons.dev/icons?i=fastapi,redis,mongodb,mysql,vscode" />
   </a>
 </p>
 
