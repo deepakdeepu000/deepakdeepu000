@@ -91,10 +91,16 @@ I specialize in **Generative AI** (RAG, LLMs), **NLP**, and **MLOps**. My goal i
 
 - **GenAI & LLMs**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,ollama" />
-    <img src"icons/huggingface.png"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/deepakdeepu000/deepakdeepu000/main/Icons/ollama.png" width="50" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/deepakdeepu000/deepakdeepu000/main/Icons/huggingface.png" width="50" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/deepakdeepu000/deepakdeepu000/main/Icons/langchain.png" width="50" height="50"/>
+    &nbsp;
+  <img src="https://raw.githubusercontent.com/deepakdeepu000/deepakdeepu000/main/Icons/langgraph.png" width="50" height="50"/>
+    
 </p>
 
 - **Databases**
